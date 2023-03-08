@@ -29,17 +29,34 @@
                     "type": "Housing",
                     "name": "Portier Place",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                              "https://github.com/Smaye23/Businessrockets/blob/63c44a7ced056408cca2a1a5779f0a128ab45b22/docs/sample/Images/Portier%20Place.JPG"
+                    ],
+                    "description": "Spring Hill College Senior Housing",
+                    "more": "",
+                    "urls": [
+                        "https://www.shc.edu/student-life/campus-life/living-on-campus/residence-life/residence-halls/"
+                       
+                    ]
+                },
+                {
+                    "id": "uniqueID-2",
+                    "lat": "50.9",
+                    "lon": "4.8",
+                    "type": "statue",
+                    "name": "My Statue",
+                    "images": [
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
                     "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
+                        "https://nl.wikipedia.org/MyPoi",
                         "https://example.org/mypoi"
                     ]
                 },
-                {
+                
+                 {
                     "id": "uniqueID-2",
                     "lat": "50.9",
                     "lon": "4.8",
