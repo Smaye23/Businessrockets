@@ -39,41 +39,71 @@
                     ]
                 },
                 {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "BUSRockets",
+                    "lat": "30.693230181685443",
+                    "lon": " -88.13954832108504",
+                    "type": "Housing",
+                    "name": "Fairway Apartments",
                     "images": [
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
+                    "description": "Spring Hill College Senior Housing",
+                    "more": "",
                     "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "https://www.shc.edu/student-life/campus-life/living-on-campus/residence-life/residence-halls/",
+                        
                     ]
                 },
                 
                  {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "BUSRockets",
+                    "lat": "30.693931344575844",
+                    "lon": "-88.13540699063658",
+                    "type": "Housing",
+                    "name": "New Hall",
                     "images": [
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
+                    "description": "Spring Hill College Housing",
+                    "more": "",
                     "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "https://www.shc.edu/student-life/campus-life/living-on-campus/residence-life/residence-halls/",
+                        
                     ]
-                }
+                },
+
+                 {
+                    "id": "BUSRockets",
+                    "lat": "30.696117833054455",
+                    "lon": "-88.13582541524084",
+                    "type": "Housing",
+                    "name": "Skip's Place",
+                    "images": [
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                    ],
+                    "description": "Spring Hill College Housing",
+                    "more": "",
+                    "urls": [
+                        "https://www.shc.edu/student-life/campus-life/living-on-campus/residence-life/residence-halls/", 
             ]
-        }
+        },
+
+         {
+           "id": "BUSRockets",
+                    "lat": "30.695499716871392",
+                    "lon": "-88.1393337445153",
+                    "type": "Housing",
+                    "name": "Mobile Hall",
+                    "images": [
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                    ],
+                    "description": "Spring Hill College Housing",
+                    "more": "",
+                    "urls": [
+                        "https://www.shc.edu/student-life/campus-life/living-on-campus/residence-life/residence-halls/", 
     }
 }
