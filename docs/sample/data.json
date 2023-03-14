@@ -62,8 +62,7 @@
                     "type": "Housing",
                     "name": "New Hall",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://github.com/Smaye23/Businessrockets/blob/main/docs/sample/Images/New%20Hall.JPG"
                     ],
                     "description": "Spring Hill College Housing",
                     "more": "",
@@ -80,8 +79,7 @@
                     "type": "Housing",
                     "name": "Skip's Place",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://github.com/Smaye23/Businessrockets/blob/main/docs/sample/Images/Skip's%20Place.JPG",
                     ],
                     "description": "Spring Hill College Housing",
                     "more": "",
@@ -97,8 +95,7 @@
                     "type": "Housing",
                     "name": "Mobile Hall",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://github.com/Smaye23/Businessrockets/blob/main/docs/sample/Images/Mobile%20Hall.JPG",
                     ],
                     "description": "Spring Hill College Housing",
                     "more": "",
